@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 TOKEN = '7245510353:AAGGUmUCJN6vm5Tfm_JnN94LygkOQyhhO4A'
 MONGO_URI = 'mongodb+srv://VENOMxCRAZY:CRAZYxVENOM@cluster0.ythilmw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0&tlsAllowInvalidCertificates=true'
-CHANNEL_ID = -4554448764
+CHANNEL_ID = -100223246803
 ADMIN_IDS = [6508557076]
 
 
